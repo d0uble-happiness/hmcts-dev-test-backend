@@ -1,0 +1,36 @@
+.gradle
+/build/
+!gradle/wrapper/gradle-wrapper.jar
+*.class
+bin/main/application.yaml
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+*.tsbuildinfo
+
+### IntelliJ IDEA ###
+.idea
+/out
+*.iws
+*.iml
+*.ipr
+
+.DS_Store
+
+applicationinsights-agent-*.jar
+*.log
